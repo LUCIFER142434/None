@@ -5,3 +5,4 @@ if tst > 10:
     print(True)
 else:
     print(False)
+print("text")

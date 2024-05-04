@@ -24,3 +24,8 @@ print("Hello world")
 #     print('YES')
 # else:
 #     print('NOT')
+
+
+
+
+# print('Это main')
